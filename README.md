@@ -13,5 +13,8 @@
 
 *socket.io is a Javascript library for establishing end to end connection between two parties.*
 *In order to use this library, you need to install it the terminal using following command*
-`npm install socket.io` or `npm i socket.io`
+
+`npm install socket.io` 
+        **or** 
+`npm i socket.io`
 
