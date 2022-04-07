@@ -4,6 +4,6 @@
 communication required for real time chat application.***
 
 ## features of the Application
-   -It is scalable
-   -It is responsive
-   -It is event driven 
+   - It is scalable
+   - It is responsive
+   - It is event driven 
