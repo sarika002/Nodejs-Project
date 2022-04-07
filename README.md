@@ -6,3 +6,6 @@
    - **It is scalable**
    - **It is responsive**
    - **It is event driven** 
+
+## Web Sockets 
+
